@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "title": "CRUD",
+    "about": "This All about CRUD operation with all tech stack simple",
+    "background": "https://i.ibb.co.com/3WRBtZC/CRUD.png",
+    "projects": [
+      {
+        "id": 1,
+        "title": "CRUD Basic React",
+        "technologies": ["React", "Javascript"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/webpack-react"
+      },
+      {
+        "id": 2,
+        "title": "CRUD Local Storage REACT",
+        "technologies": ["React", "Javascript"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/react-crud-local-storage"
+      },
+      {
+        "id": 3,
+        "title": "CRUD Basic REACT TS",
+        "technologies": ["React", "Typescript"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/CRUD-basic-react-ts"
+      },
+      {
+        "id": 4,
+        "title": "CRUD Basic",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/book-management"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Component & Interactivity",
+    "about": "This for all component desain and interactivity",
+    "background": "https://i.ibb.co.com/5K4scWY/Components-Interactivity.png",
+    "projects": []
+  },
+  {
+    "id": 3,
+    "title": "Framework or Library Core Materi",
+    "about": "This for all materi about framework or libray learning",
+    "background": "https://i.ibb.co.com/f15Db7M/Framework.png",
+    "projects": [
+      {
+        "id": 1,
+        "title": "React State State Management (useContext)",
+        "technologies": ["React", "Javascript"],
+        "linkRepo": "URL_ADDRESS"
+      },
+      {
+        "id": 2,
+        "title": "React State Management Zustand",
+        "technologies": ["React", "Javascript", "Zustand"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/state-management-zustand"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Slcing UI by Design",
+    "about": "This All about CRUD operation with all tech stack simple",
+    "background": "https://i.ibb.co.com/mGcfG4h/Slicing.png",
+    "projects": [
+      {
+        "id": 1,
+        "title": "BOT AIML",
+        "technologies": ["HTML", "CSS"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/css-float-bot"
+      },
+      {
+        "id": 2,
+        "title": "Tailwind kivape",
+        "technologies": ["HTML", "CSS", "Tailwind"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/tailwind-kivape"
+      },
+      {
+        "id": 3,
+        "title": "Jek-O Design Sistem",
+        "technologies": ["HTML", "CSS"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/css-flex-jek-o"
+      },
+      {
+        "id": 4,
+        "title": "Barber Shop",
+        "technologies": ["HTML", "CSS"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/css-float-barbershop"
+      },
+      {
+        "id": 5,
+        "title": "Rizexpress",
+        "technologies": ["HTML", "CSS"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/css-float-rizexpress"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Caching & Performance",
+    "about": "This for all materi about framework or libray learning",
+    "background": "https://i.ibb.co.com/BGvSFdn/Caching.png",
+    "projects": []
+  },
+  {
+    "id": 6,
+    "title": "Tools App",
+    "about": "This projects App for something task",
+    "background": "https://i.ibb.co.com/1rYGRzC/Tool.png",
+    "projects": [
+      {
+        "id": 1,
+        "title": "Calculator App",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "linkRepo": "URL_ADDRESS"
+      },
+      {
+        "id": 2,
+        "title": "User Management JS",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "linkRepo": "URL_ADDRESS"
+      },
+      {
+        "id": 3,
+        "title": "User Management TS",
+        "technologies": ["HTML", "CSS", "Javascript", "Typescript"],
+        "linkRepo": "URL_ADDRESS"
+      },
+      {
+        "id": 4,
+        "title": "ID Card JS",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "linkRepo": "URL_ADDRESS"
+      },
+      {
+        "id": 5,
+        "title": "SwitGame App",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "linkRepo": "URL_ADDRESS"
+      },
+      {
+        "id": 6,
+        "title": "Color Picker App",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "linkRepo": "URL_ADDRESS"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Consume Public API",
+    "about": "This for all materi about API Learning or libray learning",
+    "background": "https://i.ibb.co.com/74KVfCg/APIConsume.png",
+    "projects": []
+  },
+  {
+    "id": 8,
+    "title": "Authentication",
+    "about": "This for all materi about framework or libray learning",
+    "background": "https://i.ibb.co.com/FHKygWt/Authentication.png",
+    "projects": []
+  }
+]
