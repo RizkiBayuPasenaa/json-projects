@@ -46,12 +46,18 @@
     "projects": [
       {
         "id": 1,
-        "title": "React State State Management (useContext)",
+        "title": "React State Management (useContext)",
         "technologies": ["React", "Javascript"],
         "linkRepo": "URL_ADDRESS"
       },
       {
-        "id": 2,
+      "id": 2,
+        "title": "React State Management (useContext) TS Basic Understand",
+        "technologies": ["React", "Typescript"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/state-management-context-ts"
+      },
+      {
+        "id": 3,
         "title": "React State Management Zustand",
         "technologies": ["React", "Javascript", "Zustand"],
         "linkRepo": "https://github.com/RizkiBayuPasenaa/state-management-zustand"
