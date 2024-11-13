@@ -36,7 +36,14 @@
     "title": "Component & Interactivity",
     "about": "This for all component desain and interactivity",
     "background": "https://i.ibb.co.com/5K4scWY/Components-Interactivity.png",
-    "projects": []
+    "projects": [
+      {
+        "id": 1,
+        "title": "Corousel Image Slider",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/corousel-image-slider"
+      }
+    ]
   },
   {
     "id": 3,
@@ -46,21 +53,51 @@
     "projects": [
       {
         "id": 1,
-        "title": "React State Management (useContext)",
+        "title": "React State Management (useReducer & useContext)",
         "technologies": ["React", "Javascript"],
-        "linkRepo": "URL_ADDRESS"
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/state-reduce-context"
       },
       {
-      "id": 2,
+        "id": 2,
+        "title": "React State Management (useReducer & useContext) TS",
+        "technologies": ["React", "Typescript"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/state-reducer-context-ts"
+      },
+      {
+        "id": 3,
+        "title": "React State Management Zustand",
+        "technologies": ["React", "Javascript" , "Zustand"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/state-management-zustand"
+      },
+      {
+        "id": 4,
+        "title": "React State Management Task Manager Redux",
+        "technologies": ["React", "Javascript", "Redux"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/redux-state-management"
+      },
+      {
+        "id": 5,
+        "title": "React State Management Task List Redux TS",
+        "technologies": ["React", "Typescript", "Redux"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/state-management-redux-ts"
+      },
+      {
+        "id": 6,
         "title": "React State Management (useContext) TS Basic Understand",
         "technologies": ["React", "Typescript"],
         "linkRepo": "https://github.com/RizkiBayuPasenaa/state-management-context-ts"
       },
       {
-        "id": 3,
+        "id": 7,
         "title": "React State Management Zustand",
         "technologies": ["React", "Javascript", "Zustand"],
         "linkRepo": "https://github.com/RizkiBayuPasenaa/state-management-zustand"
+      },
+      {
+        "id": 8,
+        "title": "React State Management Redux",
+        "technologies": ["React", "Typescript", "Redux"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/state-managements-redux-basic-ts"
       }
     ]
   },
@@ -79,7 +116,7 @@
       {
         "id": 2,
         "title": "Tailwind kivape",
-        "technologies": ["HTML", "CSS", "Tailwind"],
+        "technologies": ["HTML", "CSS", "Tailwind", "Javascript"],
         "linkRepo": "https://github.com/RizkiBayuPasenaa/tailwind-kivape"
       },
       {
@@ -107,7 +144,14 @@
     "title": "Caching & Performance",
     "about": "This for all materi about framework or libray learning",
     "background": "https://i.ibb.co.com/BGvSFdn/Caching.png",
-    "projects": []
+    "projects": [
+      {
+        "id": 1,
+        "title": "In-memory-cache",
+        "technologies": ["React", "Typescript", "Zustand"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/caching-authentication"
+      }
+    ]
   },
   {
     "id": 6,
@@ -119,52 +163,84 @@
         "id": 1,
         "title": "Calculator App",
         "technologies": ["HTML", "CSS", "Javascript"],
-        "linkRepo": "URL_ADDRESS"
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/calculator-apps"
       },
       {
         "id": 2,
         "title": "User Management JS",
         "technologies": ["HTML", "CSS", "Javascript"],
-        "linkRepo": "URL_ADDRESS"
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/user-management-1"
       },
       {
         "id": 3,
         "title": "User Management TS",
-        "technologies": ["HTML", "CSS", "Javascript", "Typescript"],
-        "linkRepo": "URL_ADDRESS"
+        "technologies": ["HTML", "CSS", "Typescript"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/user-management-ts"
       },
       {
         "id": 4,
         "title": "ID Card JS",
-        "technologies": ["HTML", "CSS", "Javascript"],
-        "linkRepo": "URL_ADDRESS"
+        "technologies": ["React", "Javascript"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/id-card"
       },
       {
         "id": 5,
-        "title": "SwitGame App",
-        "technologies": ["HTML", "CSS", "Javascript"],
-        "linkRepo": "URL_ADDRESS"
+        "title": "ID Card TS",
+        "technologies": ["React", "CSS", "Typescript"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/id-card-ts"
       },
       {
         "id": 6,
+        "title": "SwitGame App",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/swit-game"
+      },
+      {
+        "id": 7,
         "title": "Color Picker App",
         "technologies": ["HTML", "CSS", "Javascript"],
-        "linkRepo": "URL_ADDRESS"
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/color-picker-app"
+      },
+      {
+        "id": 8,
+        "title": "Quiz App",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/quiz-app"
       }
     ]
   },
   {
     "id": 7,
     "title": "Consume Public API",
-    "about": "This for all materi about API Learning or libray learning",
+    "about": "This is apllication use public api open source and local api",
     "background": "https://i.ibb.co.com/74KVfCg/APIConsume.png",
-    "projects": []
+    "projects": [
+      {
+        "id": 1,
+        "title": "Movie Search OMDB API",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/movie-search"
+      },
+      {
+        "id": 2,
+        "title": "Filtering Fakestore API",
+        "technologies": ["React", "Typescript"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/consume-api-ts"
+      }
+    ]
   },
   {
     "id": 8,
     "title": "Authentication",
-    "about": "This for all materi about framework or libray learning",
+    "about": "This for all materi about authentication",
     "background": "https://i.ibb.co.com/FHKygWt/Authentication.png",
-    "projects": []
+    "projects": [
+      {
+        "id": 1,
+        "title": "Authentication",
+        "technologies": ["React", "Typescript", "Zustand"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/caching-authentication"
+      }
+    ]
   }
 ]
