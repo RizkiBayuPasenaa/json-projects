@@ -240,6 +240,12 @@
         "title": "Authentication",
         "technologies": ["React", "Typescript", "Zustand"],
         "linkRepo": "https://github.com/RizkiBayuPasenaa/caching-authentication"
+      },
+      {
+        "id": 2,
+        "title": "Authentication Basic",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/caching-authentication"
       }
     ]
   }
