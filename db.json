@@ -246,6 +246,12 @@
         "title": "Authentication Basic",
         "technologies": ["HTML", "CSS", "Javascript"],
         "linkRepo": "https://github.com/RizkiBayuPasenaa/caching-authentication"
+      },
+      {
+        "id": 3,
+        "title": "Token Base Authentication JWT",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "linkRepo": "https://github.com/RizkiBayuPasenaa/caching-authentication"
       }
     ]
   }
